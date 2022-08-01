@@ -6,5 +6,10 @@ public class DemoTest {
 		
 		System.out.println("Test");
 	}
+	
+	//For US456
+	public static void divide(int a, int b) {
+		System.out.println(a/b);
+	}
 
 }
